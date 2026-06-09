@@ -1,0 +1,12 @@
+# Pynput (For keyboard event listening and mouse clicking)
+pynput
+six
+
+# PyInstaller (For executable creation)
+altgraph
+packaging
+pefile
+pyinstaller
+pyinstaller-hooks-contrib
+pywin32-ctypes
+setuptools
